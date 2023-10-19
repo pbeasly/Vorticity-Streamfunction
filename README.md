@@ -1,5 +1,5 @@
 # Streamfunction-Vorticity
-Project contains simulations of the time evolution of the vorticity and stream function equations. An animation is created that shows the vorticity evolution with time of a Gaussian 'bump'
+Project contains simulations of the time evolution of the vorticity and stream function equations. An animation is created that shows the vorticity evolution with time of a Gaussian 'bump'.
 File descriptions:
 - Vorticity-Animation.gif:  Animation of the vorticity time evolution.
 - Vorticity-Solutions.py:  Python code to perform different solution methods for the problem
